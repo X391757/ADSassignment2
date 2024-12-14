@@ -1,0 +1,2 @@
+- **init.sql**: Contains the SQL statements for creating tables.
+- **transfer.sql**: Contains the SQL commands for data migration.
